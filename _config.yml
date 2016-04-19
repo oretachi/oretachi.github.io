@@ -16,14 +16,12 @@ footer: Oretachi
 social:
   - title: twitter
     url: https://twitter.com/SBootstrap
+  - title: instagram
+    url: https://www.instagram.com/oretachi.co/
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/Shirotobi/shirotobi.github.io
 
 # Build settings
 markdown: kramdown
