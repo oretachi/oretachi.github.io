@@ -24,9 +24,7 @@ social:
     url:
   - title: pinterest
     url:
-  - title: line
-    url:
-  - title: github
+  - title: github source
     url: https://github.com/Shirotobi/shirotobi.github.io
 
 # Build settings
