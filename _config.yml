@@ -22,8 +22,6 @@ social:
     url: 
   - title: google plus
     url:
-  - title: github source
-    url: https://github.com/Shirotobi/shirotobi.github.io
 
 # Build settings
 markdown: kramdown
